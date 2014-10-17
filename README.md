@@ -1,5 +1,5 @@
-Facebook
-========
+Facebook Timer
+==============
 
 Because, if you're like me, it's easy to slip into a social media vortex and blow through a lot of time on FB.
 
